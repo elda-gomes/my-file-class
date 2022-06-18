@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\my-generic-list\My.Generic.List\My.Generic.List\My.Generic.List.csproj" />
+  </ItemGroup>
+
+</Project>

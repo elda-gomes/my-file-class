@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConsoleForTestingFile/1.0.0": {
+        "dependencies": {
+          "MyFileClass": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleForTestingFile.dll": {}
+        }
+      },
+      "My.Generic.List/1.0.0": {
+        "runtime": {
+          "My.Generic.List.dll": {}
+        }
+      },
+      "MyFileClass/1.0.0": {
+        "dependencies": {
+          "My.Generic.List": "1.0.0"
+        },
+        "runtime": {
+          "MyFileClass.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleForTestingFile/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "My.Generic.List/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyFileClass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

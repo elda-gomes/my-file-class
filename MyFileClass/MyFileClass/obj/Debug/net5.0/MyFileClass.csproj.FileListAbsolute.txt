@@ -1,0 +1,14 @@
+C:\Users\elda_\source\repos\my-file-class\MyFileClass\MyFileClass\bin\Debug\net5.0\MyFileClass.deps.json
+C:\Users\elda_\source\repos\my-file-class\MyFileClass\MyFileClass\bin\Debug\net5.0\MyFileClass.dll
+C:\Users\elda_\source\repos\my-file-class\MyFileClass\MyFileClass\bin\Debug\net5.0\ref\MyFileClass.dll
+C:\Users\elda_\source\repos\my-file-class\MyFileClass\MyFileClass\bin\Debug\net5.0\MyFileClass.pdb
+C:\Users\elda_\source\repos\my-file-class\MyFileClass\MyFileClass\bin\Debug\net5.0\My.Generic.List.dll
+C:\Users\elda_\source\repos\my-file-class\MyFileClass\MyFileClass\bin\Debug\net5.0\My.Generic.List.pdb
+C:\Users\elda_\source\repos\my-file-class\MyFileClass\MyFileClass\obj\Debug\net5.0\MyFileClass.csproj.AssemblyReference.cache
+C:\Users\elda_\source\repos\my-file-class\MyFileClass\MyFileClass\obj\Debug\net5.0\MyFileClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elda_\source\repos\my-file-class\MyFileClass\MyFileClass\obj\Debug\net5.0\MyFileClass.AssemblyInfoInputs.cache
+C:\Users\elda_\source\repos\my-file-class\MyFileClass\MyFileClass\obj\Debug\net5.0\MyFileClass.AssemblyInfo.cs
+C:\Users\elda_\source\repos\my-file-class\MyFileClass\MyFileClass\obj\Debug\net5.0\MyFileClass.csproj.CoreCompileInputs.cache
+C:\Users\elda_\source\repos\my-file-class\MyFileClass\MyFileClass\obj\Debug\net5.0\MyFileClass.dll
+C:\Users\elda_\source\repos\my-file-class\MyFileClass\MyFileClass\obj\Debug\net5.0\ref\MyFileClass.dll
+C:\Users\elda_\source\repos\my-file-class\MyFileClass\MyFileClass\obj\Debug\net5.0\MyFileClass.pdb

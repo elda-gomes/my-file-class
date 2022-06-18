@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MyFileClass/1.0.0": {
+        "dependencies": {
+          "My.Generic.List": "1.0.0"
+        },
+        "runtime": {
+          "MyFileClass.dll": {}
+        }
+      },
+      "My.Generic.List/1.0.0": {
+        "runtime": {
+          "My.Generic.List.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyFileClass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "My.Generic.List/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
